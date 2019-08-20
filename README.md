@@ -1,5 +1,8 @@
 # Lock Screen
 
+[![](https://jitpack.io/v/ILliTAH/lock-screen.svg)](https://jitpack.io/#ILliTAH/lock-screen)
+
+
 Simple and beautiful Lock Screen library to set an check pin code. Integrated with fingerprint authentication.
 
 Easily secure your app with Lock Screen library as easy as starting an intent. 
